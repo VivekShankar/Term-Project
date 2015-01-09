@@ -13,6 +13,9 @@ Moreover, the user can choose any location in his current route and request for 
 
 The user can also view a simulation of the traveling salesman algorithm applied to the specific locations he inputted. The simulation is overlaid on a map with nodes corresponding to actual locations entered.
 
+The following URL links to a video depicting the features of this project.
+https://www.youtube.com/watch?v=9z8tDjlyvFM
+
 ###########################################################################
 How to run this project
 
